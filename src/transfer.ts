@@ -20,7 +20,7 @@ export default function transfer(
       outStream.write(
         await publishAnimation(
           state,
-          state.failedUploads.has(d.id) ? "Keyframe Sequence" : d.title,
+          state.failedUploads.has(d.id) ? "Keyframe Sequence" : "UploadedAnimation",
           description(d.id),
           await pullAnimation(d.id),
           groupId
