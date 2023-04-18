@@ -1,7 +1,7 @@
 {
-  "name": "roblox-animation-transfer",
+  "name": "roblox-animation-transfer-edit",
   "version": "1.3.0",
-  "description": "Transfers Roblox animations from one owner to another",
+  "description": "Transfers Roblox animations from one owner to another. Edited to remove upload description due to roblox filter",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsc -w"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evaera/roblox-animation-transfer.git"
+    "url": "git+https://github.com/norperz/roblox-animation-transfer.git"
   },
   "keywords": [
     "roblox",
