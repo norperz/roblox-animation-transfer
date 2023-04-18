@@ -1,6 +1,6 @@
 {
   "name": "roblox-animation-transfer-edit",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Transfers Roblox animations from one owner to another. Edited to remove upload description due to roblox filter",
   "main": "dist/index.js",
   "scripts": {
