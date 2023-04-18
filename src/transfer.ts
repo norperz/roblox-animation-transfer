@@ -6,7 +6,7 @@ import Queue from "./queue"
 import { State } from "./state"
 
 const description = (id: number) =>
-  `Transferred from ID ${id} with roblox-animation-transfer`
+  `Transfer`
 
 export default function transfer(
   inStream: Readable,
